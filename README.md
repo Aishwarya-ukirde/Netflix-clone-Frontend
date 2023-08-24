@@ -19,4 +19,4 @@ Welcome to the Netflix Clone repository! This project is a front-end implementat
 
 ## How to Use
 
-1. **Clone the Repository:** 
+1. **Clone the Repository:** https://github.com/Aishwarya-ukirde/Netflix-clone-Frontend
